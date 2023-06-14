@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="16412ThomasDecker.FoobarDatabaseSync" Publisher="CN=1330FAFF-275D-4496-A785-CC38B2A4FE2F" Version="1.1.2.0" />
+  <Identity Name="16412ThomasDecker.FoobarDatabaseSync" Publisher="CN=Thomas Decker" Version="1.1.3.0" />
   <mp:PhoneIdentity PhoneProductId="2ca5816a-0d16-4d81-b0f0-d029d48d82cf" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>FoobarDatabaseSync</DisplayName>
